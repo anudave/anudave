@@ -1,6 +1,4 @@
-
-<!-- HEADER -->
-<h1 align="center">✨ Anwar (AnuDave)</h1>
+<h1 align="center">✨ ANWAR DAWUD</h1>
 <p align="center">
   <b>Full-Stack Developer • ML Engineer • Mobile Developer • UI/UX Designer</b>
 </p>
@@ -21,15 +19,18 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anudave&style=for-the-badge&color=00F7FF" />
+  <img src="https://komarev.com/ghpvc/?username=anwardawud&style=for-the-badge&color=00F7FF" />
 </p>
 
 ---
 
 # 🧑‍💻 About Me
 
-I'm Anwar (AnuDave) — an Ethiopian full-stack developer passionate about  
+I'm Anwar Dawud — an Ethiopian full-stack developer passionate about  
 scalable software, AI systems, mobile apps, and modern UI/UX design.
+
+**📍 Based in Ethiopia**  
+**👥 Open to collaborations and innovative projects**
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
@@ -37,30 +38,73 @@ scalable software, AI systems, mobile apps, and modern UI/UX design.
 
 ---
 
-# 💼 What I Offer (Services)
+# 🎯 My Development Philosophy
+
+I believe in creating solutions that are not just functional, but elegant and scalable. Currently focused on:
+
+- 🚀 Building enterprise-grade applications with **MERN stack & Angular**
+- 🤖 Developing intelligent systems with **Machine Learning & AI integration**
+- 📱 Creating seamless cross-platform experiences with **Flutter & React Native**
+- 🎨 Designing intuitive user interfaces that enhance user experience
+
+**Coding Mantra:** *"Code with purpose. Build with passion."*
+
+---
+
+# 💼 What I Offer
 
 ### 🚀 Full-Stack Web Development
-- MERN stack  
-- Angular + .NET  
-- Laravel + PHP  
-- Responsive UI/UX  
+- **MERN stack** (MongoDB, Express, React, Node.js)
+- **Angular + .NET** enterprise solutions
+- **Laravel + PHP** robust backends
+- Responsive and accessible UI/UX
 
-### 🤖 Machine Learning
-- Data preprocessing  
-- Model training & evaluation  
-- ML pipelines  
-- Simple AI tools  
+### 🤖 Machine Learning & AI
+- Data preprocessing and analysis
+- Model training & evaluation pipelines
+- ML-powered automation tools
+- Predictive analytics systems
 
 ### 📱 Mobile App Development
-- Flutter apps  
-- React Native (Expo) apps  
-- API integration  
-- Payment integration  
+- **Flutter** cross-platform applications
+- **React Native (Expo)** mobile solutions
+- API and payment integration
+- Native performance optimization
 
-### 🧠 UI/UX & Branding
-- Figma design  
-- UX flows & components  
-- Logo/brand identity  
+### 🎨 UI/UX & Branding
+- **Figma** prototyping and design systems
+- User experience flows and wireframes
+- Brand identity and logo design
+- Design to development handoff
+
+---
+
+# ⚙️ Tech Stack
+
+### Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css,js,ts" />
+</p>
+
+### Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,nestjs,dotnet,python" />
+</p>
+
+### Databases & Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
+
+### Mobile & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,tensorflow,pytorch" />
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,aws" />
+</p>
 
 ---
 
@@ -68,95 +112,72 @@ scalable software, AI systems, mobile apps, and modern UI/UX design.
 
 <div align="center">
 
-| 🏆 Project | 🔥 Description |
-|-----------|----------------|
-| E-Health Platform | Angular + .NET system with appointments, chats, payments, admin panel |
-| MERN E-Commerce | Real-time cart, Redis cache, Stripe payment, full admin dashboard |
-| Restaurant App | Food ordering + delivery system (Web + Mobile) |
-| AI Tools | ML models for prediction & automation |
+| 🏆 Project | 🔥 Description | 🛠️ Tech Stack |
+|-----------|----------------|----------------|
+| **E-Health Platform** | Comprehensive healthcare system with appointments, telemedicine, and admin dashboard | Angular, .NET, MySQL |
+| **MERN E-Commerce** | Full-featured online store with real-time inventory, payments, and analytics | React, Node.js, MongoDB, Redis |
+| **Restaurant Management** | Food ordering + delivery system (Web + Mobile) | Flutter, Laravel, PostgreSQL |
+| **AI Prediction Tools** | Machine learning models for business intelligence and automation | Python, TensorFlow, Scikit-learn |
 
 </div>
-
----
-
-# ⚙️ Tech Stack
-
-### Frontend
-React • Next.js • Angular 19 • Tailwind • HTML • CSS
-
-### Backend
-Node.js • Express • Laravel • NestJS • ASP.NET Core • PHP
-
-### Databases
-MongoDB • PostgreSQL • MySQL • Redis
-
-### Machine Learning
-Python • NumPy • Pandas • Scikit-Learn
-
-### Mobile
-Flutter • React Native (Expo)
-
----
-
-# 🛠️ Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,express,php,laravel,dotnet,flutter,git,github,figma,mongodb,postgres,mysql,redis,py,ai" />
-</p>
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anudave&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwardawud&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anudave&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anwardawud&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anudave&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwardawud&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 ---
 
-# 🧊 3D Contribution Graph (Snake Animation)
+# 🧊 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anudave/anudave/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/anwardawud/anwardawud/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
-
-# 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:your-email-here">
-    <img src="https://img.shields.io/badge/📧 Email%20Me-00F7FF?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/anudave">
-    <img src="https://img.shields.io/badge/⭐ GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="your-linkedin-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-
-# 🧩 Fun Fact
-I love building digital products that solve real problems — from hospitals to restaurants to AI tools.
 
 ---
 
 # 🎯 Vision  
-To build global products from Ethiopia that impact Africa and the world.
+To build global products from Ethiopia that impact Africa and the world through innovative technology solutions.
+
+---
+
+# 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/📧 Email%20Me-00F7FF?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/anwardawud">
+    <img src="https://img.shields.io/badge/⭐ GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/anwardawud">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/anwardawud">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>“Code with purpose. Build with passion.”</i>
+  <i>"Innovation meets execution - building the future one commit at a time"</i>
 </p>
+
+<div align="center">
+  
+### 🧩 Fun Fact
+I love building digital products that solve real problems — from hospitals to restaurants to AI tools.
+
+</div>
