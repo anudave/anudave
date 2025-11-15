@@ -1,145 +1,73 @@
-<h1 align="center">✨ ANWAR DAWUD</h1>
-<p align="center">
-  <b>Full-Stack Developer • ML Engineer • Mobile Developer</b>
-</p>
-<p align="center">
-  <i>AnuDave · he/him</i>
-</p>
+# ANWAR DAWUD  
+**AnuDave · he/him**  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&color=00F7FF&width=500&lines=Full+Stack+Developer;Machine+Learning+Engineer;Mobile+App+Developer;UI/UX+Designer" />
-</p>
+### Follow  
+
+I am a Full-Stack Developer with expertise in MERN stack, Angular, and Flutter, specializing in building scalable, modern digital solutions.  
+
+**📍 Ethiopia**  
 
 ---
 
-<!-- FOLLOW BUTTONS -->
-<p align="center">
-  <a href="https://github.com/anwardawud">
-    <img src="https://img.shields.io/badge/👤 Follow-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <span>Open for collaborations and innovative projects</span>
-</p>
+### Achievements  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anwardawud&style=flat-square&color=00F7FF" />
-</p>
+[![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anwardawud&show_icons=true&theme=radical)](https://github.com/anwardawud)
 
 ---
 
-# 🧑‍💻 About Me
+### TURNING IDEAS INTO REALITY  
 
-I am a Full-Stack Developer with expertise in MERN stack, Angular, Flutter, and Machine Learning, specializing in building scalable, modern digital solutions.
+I transform concepts into functional, scalable digital products. Currently:  
 
-**📍 Ethiopia**
+- Engineering full-stack applications with **MERN stack & Angular** while exploring **AI integration**
+- Developing intelligent systems with **Machine Learning** and mastering **clean architecture** principles
+- Solving complex problems at the intersection of **web development** and **mobile applications**
+- Designing user-friendly interfaces when not optimizing application performance
 
----
-
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anwardawud&theme=onedark&row=2&column=4" />
-</p>
+**Tech Philosophy:** *"Code with purpose. Build with passion."*
 
 ---
 
-# 🎯 DEVELOPMENT FOCUS
+### Tech Arsenal  
 
-I transform ideas into functional, scalable digital products. Currently:
+#### Core Stack  
 
-- 🚀 Building full-stack applications with **MERN stack & Angular**
-- 🤖 Developing intelligent systems with **Machine Learning & AI**
-- 📱 Creating cross-platform mobile apps with **Flutter & React Native**
-- 🎨 Designing intuitive user interfaces with **Figma & modern UX principles**
+| REACT | ANGULAR | NODE.JS | FLUTTER | PYTHON |
+|---|---|---|---|---|
 
-**Development Philosophy:** *"Code with purpose. Build with passion."*
+#### Databases  
 
----
+| MONGODB | POSTGRESQL | MYSQL | REDIS |
 
-# ⚙️ Tech Arsenal
+#### AI/ML & Tools  
 
-### Core Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### Databases
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### AI/ML & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+| TENSORFLOW | FIGMA | GIT | DOCKER |
 
 ---
 
-# 🚀 Projects Showcase
+### Projects Showcase  
 
-### 🌐 E-Health Platform
-Comprehensive healthcare system with appointments, telemedicine, and admin dashboard
-*Tech: Angular, .NET, MySQL*
-
-### 🛒 MERN E-Commerce
-Full-featured online store with real-time inventory and payment integration
-*Tech: React, Node.js, MongoDB, Stripe*
-
-### 📱 Restaurant Management
-Food ordering and delivery system with web and mobile apps
-*Tech: Flutter, Laravel, PostgreSQL*
-
-### 🤖 AI Prediction Tools
-Machine learning models for business intelligence and automation
-*Tech: Python, TensorFlow, Scikit-learn*
+**E-Health Platform** - Healthcare system with appointments and telemedicine  
+**MERN E-Commerce** - Online store with real-time features  
+**Restaurant App** - Food ordering and delivery system  
+**AI Tools** - Machine learning models for automation  
 
 ---
 
-# 📊 GitHub Stats
+### GitHub Activity  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwardawud&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=anwardawud&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwardawud&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anwardawud&theme=radical)](https://git.io/streak-stats)
 
 ---
 
-# 🎯 Vision
-To build global products from Ethiopia that impact Africa and the world through innovative technology solutions.
+### Contact  
 
----
-
-# 📬 Let's Connect
-
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/📧 Email-00F7FF?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/anwardawud">
-    <img src="https://img.shields.io/badge/⭐ GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/anwardawud">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+**Email:** your-email@example.com  
+**GitHub:** [anwardawud](https://github.com/anwardawud)  
+**LinkedIn:** [anwardawud](https://linkedin.com/in/anwardawud)  
 
 ---
 
 <p align="center">
-  <i>"Building the future one commit at a time"</i>
+  <i>"Building global products from Ethiopia"</i>
 </p>
