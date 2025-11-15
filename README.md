@@ -1,98 +1,63 @@
-# Anwar Dawud
-## AnuDave
+<p align="center">
+  <img src="https://via.placeholder.com/150x150/00F7FF/000000?text=AD" alt="Anwar Dawud Logo" width="150" height="150">
+</p>
 
-- **Follow**  
-  Sponsor
+<h1 align="center">Anwar Dawud</h1>
+<p align="center">AnuDave</p>
+
+<p align="center">
+  <a href="https://github.com/anwardawud?tab=followers">
+    <img src="https://img.shields.io/github/followers/anwardawud?style=for-the-badge&color=00F7FF&label=Follow" alt="Follow">
+  </a>
+  <a href="https://github.com/sponsors/anwardawud">
+    <img src="https://img.shields.io/badge/Sponsor-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor">
+  </a>
+</p>
 
 ### Full-Stack Developer & ML Engineer
 
-#### A: Open for collaborations
+#### 👥 Open for collaborations and innovative projects
 
-- ✅ Available for projects
-- 💬 @anwardawud
-- 💯 Building innovative solutions
-
----
-
-### ehealth-platform (Public)
-Healthcare System | Angular • .NET • MySQL  
-TypeScript  1.2k  356
+- ✅ **Available for freelance projects**
+- 💬 **@anwardawud**
+- 💯 **Building digital solutions from Ethiopia**
 
 ---
 
-### mern-ecommerce (Public)
-Full Stack E-commerce with Admin Dashboard  
-JavaScript  847  289
+### 🏥 ehealth-platform (Public)
+**Healthcare System | Angular • .NET • MySQL**  
+TypeScript • 1.2k stars • 356 forks
 
 ---
 
-### restaurant-app (Public)
-Food Ordering & Delivery System  
-Flutter  623  187
+### 🛒 mern-ecommerce (Public)
+**Full Stack E-commerce with Admin Dashboard**  
+JavaScript • 847 stars • 289 forks
 
 ---
 
-### ai-prediction-tools (Public)
-Machine Learning Models for Automation  
-Python  512  134
+### 🍕 restaurant-app (Public)  
+**Food Ordering & Delivery System**  
+Flutter • 623 stars • 187 forks
 
 ---
 
-### threads-clone (Public)
-MERN Stack Social Media App + Advanced Features  
-JavaScript  389  112
+### 🤖 ai-prediction-tools (Public)
+**Machine Learning Models for Automation**  
+Python • 512 stars • 134 forks
 
 ---
 
-### flutter-chat-app (Public)
-Real Time Chat App with Modern UI  
-Dart  734  256
+### 💬 flutter-chat-app (Public)
+**Real Time Chat App with Modern UI**  
+Dart • 734 stars • 256 forks
 
 ---
 
-### 428 contributions in the last year
+### 📊 428 contributions in the last year
 
-|     | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| Mon | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ |     |
-| Wed | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ |     |
-| Fri | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ |     |
-
-*Consistent coding journey*
-
----
-
-### 🛠️ Tech Stack
-**Frontend:** React • Angular • Flutter • TypeScript  
-**Backend:** Node.js • .NET • Laravel • Python  
-**Database:** MongoDB • PostgreSQL • MySQL • Redis  
-**AI/ML:** TensorFlow • Scikit-learn • OpenCV
-
----
-
-### 📈 GitHub Stats
-![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anwardawud&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anwardawud&layout=compact&theme=radical)
-
----
-
-### 🌟 Featured Projects
-- **E-Health Platform** - Complete healthcare management system
-- **MERN E-Commerce** - Advanced online shopping experience
-- **AI Tools Suite** - Machine learning for business automation
-- **Restaurant Ecosystem** - End-to-end food service solution
-
----
-
-### 📫 Let's Connect
-**Email:** your-email@example.com  
-**GitHub:** [anwardawud](https://github.com/anwardawud)  
-**LinkedIn:** [anwardawud](https://linkedin.com/in/anwardawud)  
-**Portfolio:** coming soon
-
----
-
-<p align="center">
-  <i>"Building the future one commit at a time"</i>
-</p>
+```bash
+Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec
+███  ███  ███  ███  ███  ███  ███  ███  ███  ███  ███  ███
+███  ███  ███  ███  ███  ███  ███  ███  ███  ███  ███  ███
+███  ███  ███  ███  ███  ███  ███  ███  ███  ███  ███  ███
