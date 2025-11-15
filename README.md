@@ -1,83 +1,162 @@
-# Hi there, I'm Anwar 👋  
 
-🚀 **Software Engineer | Full-Stack Developer | Machine Learning Enthusiast**  
+<!-- HEADER -->
+<h1 align="center">✨ Anwar (AnuDave)</h1>
+<p align="center">
+  <b>Full-Stack Developer • ML Engineer • Mobile Developer • UI/UX Designer</b>
+</p>
 
-I’m passionate about building impactful software solutions that blend **AI, full-stack development, and mobile apps**.  
-Currently diving deeper into **Machine Learning** while creating modern apps with **React Native + Expo**.  
-
----
-
-## 🔥 What I'm Working On  
-- 🤖 Machine Learning projects (learning + building real-world models)  
-- 📱 **Skillverse App** – A React Native + Expo project  
-- 🌐 MERN Stack projects with modern features (Stripe, Redis, MongoDB, etc.)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&width=600&lines=Full+Stack+Developer;Machine+Learning+Engineer;Mobile+App+Developer;UI%2FUX+Designer;Building+Modern+Digital+Solutions" />
+</p>
 
 ---
 
-## 🎯 Goals for 2025  
-- Master **Machine Learning & AI**  
-- Build **production-ready apps** (both mobile & web)  
-- Contribute to **open-source** projects  
-- Land a **top-tier software engineering role**  
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-00F7FF?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-19-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML-Engineer-FFD700?style=for-the-badge&logo=tensorflow&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mobile-Developer-1DBF73?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-8A2BE2?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anudave&style=for-the-badge&color=00F7FF" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+# 🧑‍💻 About Me
 
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+I'm Anwar (AnuDave) — an Ethiopian full-stack developer passionate about  
+scalable software, AI systems, mobile apps, and modern UI/UX design.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</div>
 
 ---
 
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)  
+# 💼 What I Offer (Services)
+
+### 🚀 Full-Stack Web Development
+- MERN stack  
+- Angular + .NET  
+- Laravel + PHP  
+- Responsive UI/UX  
+
+### 🤖 Machine Learning
+- Data preprocessing  
+- Model training & evaluation  
+- ML pipelines  
+- Simple AI tools  
+
+### 📱 Mobile App Development
+- Flutter apps  
+- React Native (Expo) apps  
+- API integration  
+- Payment integration  
+
+### 🧠 UI/UX & Branding
+- Figma design  
+- UX flows & components  
+- Logo/brand identity  
 
 ---
 
-### 🤖 Machine Learning / AI  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+# 🧩 Projects Showcase
+
+<div align="center">
+
+| 🏆 Project | 🔥 Description |
+|-----------|----------------|
+| E-Health Platform | Angular + .NET system with appointments, chats, payments, admin panel |
+| MERN E-Commerce | Real-time cart, Redis cache, Stripe payment, full admin dashboard |
+| Restaurant App | Food ordering + delivery system (Web + Mobile) |
+| AI Tools | ML models for prediction & automation |
+
+</div>
 
 ---
 
-### ☁️ DevOps & Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+# ⚙️ Tech Stack
+
+### Frontend
+React • Next.js • Angular 19 • Tailwind • HTML • CSS
+
+### Backend
+Node.js • Express • Laravel • NestJS • ASP.NET Core • PHP
+
+### Databases
+MongoDB • PostgreSQL • MySQL • Redis
+
+### Machine Learning
+Python • NumPy • Pandas • Scikit-Learn
+
+### Mobile
+Flutter • React Native (Expo)
 
 ---
 
-## 📊 GitHub Stats
-![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)  
+# 🛠️ Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,express,php,laravel,dotnet,flutter,git,github,figma,mongodb,postgres,mysql,redis,py,ai" />
+</p>
 
 ---
 
-## 📫 Connect With Me  
-- 📧 Email: **anwardawud178@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](#)  
-- 🌐 Portfolio: [your-portfolio-link.com](#)  
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anudave&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anudave&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anudave&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
 
 ---
 
-⭐️ *“Building apps that not only work, but inspire.”*
+# 🧊 3D Contribution Graph (Snake Animation)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anudave/anudave/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:your-email-here">
+    <img src="https://img.shields.io/badge/📧 Email%20Me-00F7FF?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/anudave">
+    <img src="https://img.shields.io/badge/⭐ GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="your-linkedin-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
+# 🧩 Fun Fact
+I love building digital products that solve real problems — from hospitals to restaurants to AI tools.
+
+---
+
+# 🎯 Vision  
+To build global products from Ethiopia that impact Africa and the world.
+
+---
+
+<p align="center">
+  <i>“Code with purpose. Build with passion.”</i>
+</p>
