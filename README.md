@@ -1,73 +1,98 @@
-# ANWAR DAWUD  
-**AnuDave · he/him**  
+# Anwar Dawud
+## AnuDave
 
-### Follow  
+- **Follow**  
+  Sponsor
 
-I am a Full-Stack Developer with expertise in MERN stack, Angular, and Flutter, specializing in building scalable, modern digital solutions.  
+### Full-Stack Developer & ML Engineer
 
-**📍 Ethiopia**  
+#### A: Open for collaborations
 
----
-
-### Achievements  
-
-[![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anwardawud&show_icons=true&theme=radical)](https://github.com/anwardawud)
-
----
-
-### TURNING IDEAS INTO REALITY  
-
-I transform concepts into functional, scalable digital products. Currently:  
-
-- Engineering full-stack applications with **MERN stack & Angular** while exploring **AI integration**
-- Developing intelligent systems with **Machine Learning** and mastering **clean architecture** principles
-- Solving complex problems at the intersection of **web development** and **mobile applications**
-- Designing user-friendly interfaces when not optimizing application performance
-
-**Tech Philosophy:** *"Code with purpose. Build with passion."*
+- ✅ Available for projects
+- 💬 @anwardawud
+- 💯 Building innovative solutions
 
 ---
 
-### Tech Arsenal  
-
-#### Core Stack  
-
-| REACT | ANGULAR | NODE.JS | FLUTTER | PYTHON |
-|---|---|---|---|---|
-
-#### Databases  
-
-| MONGODB | POSTGRESQL | MYSQL | REDIS |
-
-#### AI/ML & Tools  
-
-| TENSORFLOW | FIGMA | GIT | DOCKER |
+### ehealth-platform (Public)
+Healthcare System | Angular • .NET • MySQL  
+TypeScript  1.2k  356
 
 ---
 
-### Projects Showcase  
-
-**E-Health Platform** - Healthcare system with appointments and telemedicine  
-**MERN E-Commerce** - Online store with real-time features  
-**Restaurant App** - Food ordering and delivery system  
-**AI Tools** - Machine learning models for automation  
+### mern-ecommerce (Public)
+Full Stack E-commerce with Admin Dashboard  
+JavaScript  847  289
 
 ---
 
-### GitHub Activity  
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anwardawud&theme=radical)](https://git.io/streak-stats)
+### restaurant-app (Public)
+Food Ordering & Delivery System  
+Flutter  623  187
 
 ---
 
-### Contact  
+### ai-prediction-tools (Public)
+Machine Learning Models for Automation  
+Python  512  134
 
+---
+
+### threads-clone (Public)
+MERN Stack Social Media App + Advanced Features  
+JavaScript  389  112
+
+---
+
+### flutter-chat-app (Public)
+Real Time Chat App with Modern UI  
+Dart  734  256
+
+---
+
+### 428 contributions in the last year
+
+|     | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Mon | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ |     |
+| Wed | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ |     |
+| Fri | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ | ███ |     |
+
+*Consistent coding journey*
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** React • Angular • Flutter • TypeScript  
+**Backend:** Node.js • .NET • Laravel • Python  
+**Database:** MongoDB • PostgreSQL • MySQL • Redis  
+**AI/ML:** TensorFlow • Scikit-learn • OpenCV
+
+---
+
+### 📈 GitHub Stats
+![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anwardawud&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anwardawud&layout=compact&theme=radical)
+
+---
+
+### 🌟 Featured Projects
+- **E-Health Platform** - Complete healthcare management system
+- **MERN E-Commerce** - Advanced online shopping experience
+- **AI Tools Suite** - Machine learning for business automation
+- **Restaurant Ecosystem** - End-to-end food service solution
+
+---
+
+### 📫 Let's Connect
 **Email:** your-email@example.com  
 **GitHub:** [anwardawud](https://github.com/anwardawud)  
 **LinkedIn:** [anwardawud](https://linkedin.com/in/anwardawud)  
+**Portfolio:** coming soon
 
 ---
 
 <p align="center">
-  <i>"Building global products from Ethiopia"</i>
+  <i>"Building the future one commit at a time"</i>
 </p>
